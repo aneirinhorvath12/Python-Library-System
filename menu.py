@@ -4,6 +4,7 @@ it combines their functionality into a Tkinter GUI
 
 Aneirin Horvath, 16 December 2020
 '''
+print('hello world')
 import sys
 sys.path.append('librarypackage')
 
