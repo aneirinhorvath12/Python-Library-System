@@ -1,0 +1,51 @@
+1001:9781494506902:Sapiens:Yuval Noah Harari:6/8/2015:0
+1002:9780062464316:Homo Deus:Yuval Noah Harari:17/3/2017:0
+1003:9780140125054:QED:Richard Feynman:12/12/2012:0
+1004:9780060555665:The Intelligent Investor:Benjamin Graham:27/2/2018:0
+1005:9781612680002:Rich Dad Poor Dad:Robert Kiyosaki:8/1/2011:0 
+1006:9780345479174:The Art of the Deal:Donald Trump & Tony Schwartz:2/1/2019:0
+1007:9780198739838:Superintelligence:Nick Bostrom:22/12/2018:0
+1008:9781101873281:The Innovators:Walter Isaacson:30/11/2018:0
+1009:9780593015186: A Brief History of Time:Stephen Hawking:15/6/2014:0
+1010:9780060555665:The Intelligent Investor:Benjamin Graham:18/6/2018:0
+1011:9781118823774:C++ FOR DUMMIES:Stephen Davis:3/4/2015:0
+1012:9783328600626:A Promised Land:Barack Obama:1/12/2020:3086
+1013:9781402795916:Hamlet:William Shakespeare:7/5/2009:0
+1014:9781927970034:12 Years a Slave:Solomon Northup:18/5/2012:4139
+1015:9780439362139:Harry Potter and the Philosopher's Stone:J.K. Rowling:29/6/2012:0
+1016:9782253115847:To Kill a Mockingbird:Harper Lee:8/2/2013:0
+1017:9780345479174:The Art of the Deal:Donald Trump & Tony Schwartz:24/8/2018:0
+1018:9780333791035:The Great Gatsby:F. Scott Fitzgerald:30/11/2016:0
+1019:9781612680002:Rich Dad Poor Dad:Robert Kiyosaki:24/6/2017:9533
+1020:9780955285608:Romeo and Juliet:William Shakespeare:18/4/2011:0
+1021:9780439064866:Harry Potter and the Chamber of Secrets:J.K. Rowling:1/4/2014:0
+1022:9780140817744:1984:George Orwell:19/3/2015:0
+1023:9780140283334:Lord of the Flies:William Golding:12/11/2017:0
+1024:9780192827609:Pride and Prejudice:Jane Austen:3/2/2011:0
+1025:9780140817744:1984:George Orwell:11/7/2017:0
+1026:9780439554923:Harry Potter and the Prisoner of Azkaban:J.K. Rowling:21/4/2015:0
+1027:9780003252514:Merchant of Venice:William Shakespeare:27/8/2014:0
+1028:9780394502946:Cosmos:Carl Sagan:18/6/2016:3086
+1029:9780140439120:On the Origin of Species:Charles Darwin:24/3/2016:0 
+1030:9781101873281:The Innovators:Walter Isaacson:29/5/2016:0
+1031:9780192827609:Pride and Prejudice:Jane Austen:1/1/2007:0
+1032:9783150090765:The Old Man and the Sea:Ernest Hemingway:3/9/2018:0
+1033:9781338299175:Harry Potter and the Goblet of Fire:J.K. Rowling:31/7/2017:9157
+1034:9780140817690:Animal Farm:George Orwell:3/9/2019:0
+1035:9780439567619:Harry Potter and the Order of the Phoenix:J.K. Rowling:12/10/2017:0
+1036:9783328600626:A Promised Land:Barack Obama:3/12/2020:1212
+1037:9780333791035:The Great Gatsby:F. Scott Fitzgerald:26/12/2018:0
+1038:9781494506902:Sapiens:Yuval Noah Harari:22/1/2017:0
+1039:9780955285608:Romeo and Juliet:William Shakespeare:20/11/2017:0
+1040:9780439791328:Harry Potter and the Half-Blood Prince:J.K. Rowling:29/3/2018:0
+1041:9780140125054:QED:Richard Feynman:13/7/2018:1244
+1042:9781118823774:C++ FOR DUMMIES:Stephen Davis:2/4/2019:0
+1043:9780194241748:Great Expectations:Charles Dickens:17/5/2008:7882
+1044:9780545010221:Harry Potter and the Deathly Hallows:J.K. Rowling:9/3/2020:0
+1045:9780470087169:Java FOR DUMMIES:Barry Burd:5/5/2017:0
+1046:9781101946596:Life 3.0:Max Tegmark:23/8/2017:5013
+1047:9780394502946:Cosmos:Carl Sagan:31/12/2018:9619
+1048:9780140125054:QED:Richard Feynman:1/9/2013:0
+1049:9780358105589:AI Superpowers:Kai-Fu Lee:25/10/2018:0
+1050:9780192827609:Pride and Prejudice:Jane Austen:12/12/2019:1234
+
