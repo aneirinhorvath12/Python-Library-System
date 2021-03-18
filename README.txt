@@ -11,4 +11,4 @@ or confirm that the task is complete.
 To weed the book library the user should input the name of the book they want and the program will return the number of times
 that title has been checked out since January 1st 2020, the user can then decide with this information which books they wish to keep.
 
-Please note coursework requirments stated that classes and databases could not be used, any 'database' interaction had to be with text files.
+Please note coursework requirements stated that classes and databases could not be used, any 'database' interaction had to be with text files.
